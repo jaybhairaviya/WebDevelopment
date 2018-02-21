@@ -99,3 +99,24 @@ div.col-md-12
   padding-bottom: 20px;
   text-align: center;
 }
+#about {
+  border: 2px solid black;
+  margin-bottom: 10px;
+  padding-top: 50px;
+}
+
+#events {
+  border: 2px solid black;
+  margin-bottom: 10px;
+  padding-top: 50px;
+}
+
+#committee {
+  border: 2px solid black;
+  margin-bottom: 10px;
+  padding-top: 50px;
+}
+#contact {
+  border: 2px solid black;
+  padding-top: 50px;
+}
